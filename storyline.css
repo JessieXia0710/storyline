@@ -34,13 +34,3 @@ h2 {
     align-items: center;
     color: dimgray;
 }
-
-.message a {
-    font-size: 22px;
-    color: blue;
-}
-
-.message b {
-    font-size: 22px;
-    color: firebrick;
-}
